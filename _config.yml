@@ -2,7 +2,7 @@ title: ChrisZbga Library
 description: A personal knowledge-base library made about cybersecurity.
 theme: just-the-docs
 
-url: https://toff333.github.io/
+url: https://chriszbga-library.netlify.app
 
 aux_links:
   "Portfolio": https://chriszbga.netlify.app/
@@ -15,6 +15,9 @@ callouts:
 color_scheme: light
 
 heading_anchors: false
+
+ga_tracking: G-F5LTJRL04B
+ga_tracking_anonymize_ip: true
 
 # footer_content: "Copyright &copy; 2024 by <a href=\"https://chriszbga.netlify.app\">ChrisZ</a>."
 
